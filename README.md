@@ -369,7 +369,7 @@ It is important to have the wireframes to understand the flow of the user's jour
 3. **SKILLS** Learn a testing framework : Build test coverage. Add to your portfolio.
 4. **CAREER** Get a freelance job using your portfolio.
 5. **CAREER** Find a mentor. Get feedback on your skills and portfolio.
-6. **SKILLS** Step up challenge - learn the other side of stack(front-end vs back-end)
+6. **SKILLS** Step up challenge - learn the other side of stack([front-end vs back-end](https://www.scaler.com/blog/frontend-vs-backend/))
 7. **CAREER** Apply for a full time job. You are ready.
 8. **SKILLS** Continue iterating.
 9. **CAREER** Prepare for interviews
